@@ -3,7 +3,7 @@ Implements Sentry in symfony
 
 | Repository Branch | EasyAdmin Version | Symfony Version | PHP Version     |
 |-------------------|-------------------|-----------------|-----------------|
-| [4.x][1]          | `4.x`             | `6.x`           | `8.1` or higher | 
+| [4.x][1]          | `4.x`             | `5.4`           | `8.0` or higher | 
 
 
 Read [Sentry Docs][2]
